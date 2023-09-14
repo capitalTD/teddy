@@ -1,5 +1,6 @@
 <template>
   <div>
+    <!-- example lang po -->
     <v-carousel
       cycle
       height="500"
@@ -203,7 +204,7 @@ export default {
           return x
         })
         map1.push("sfsdf")
-        console.log("map",map1)
+        console.log("map",map1.push("sdgxd"))
 
         // for(let i=0;i<this.slides.length;i++){
         //   console.log("loop",this.slides[i])
