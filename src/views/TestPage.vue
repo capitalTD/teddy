@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- example lang po -->
+    <!-- example lang po pangalawa na -->
     <v-carousel
       cycle
       height="500"
