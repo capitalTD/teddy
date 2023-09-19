@@ -1,7 +1,6 @@
 <template>
   <div>
     <!-- example lang po -->
-    <!-- kagagawan ni jack -->
     <v-carousel
       cycle
       height="500"
