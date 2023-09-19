@@ -1,6 +1,8 @@
 <template>
   <div>
     <!-- example lang po pangalawa na -->
+
+    <!-- hahahahaah -->
     <v-carousel
       cycle
       height="500"
